@@ -20,4 +20,10 @@
 # Then the output should be:
 # "Nice! You were born in approximately 2013."
 
-p "How old are you?"
+puts "How old are you?"
+output = gets.chomp
+p "Nice! You were born in approximately 1943"
+
+puts "How old are you?"
+output = gets.chomp
+p "Nice! You were born in approximately 2003"

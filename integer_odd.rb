@@ -10,3 +10,9 @@
 #   false
 
 p "Enter an odd number:"
+p number = 13
+p number.odd?
+
+p "Enter an odd number:"
+p number = 12
+p number.odd?
